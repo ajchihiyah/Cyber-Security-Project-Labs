@@ -2,7 +2,7 @@
 
 
 ## Professional Statements
-As a dedicated and ambitious Master’s student in Cybersecurity at Indiana University (IU) in Berlin, I am deeply passionate about securing digital infrastructures and combating evolving cyber threats. My academic journey, combined with hands-on experience and industry-recognized certifications such as the Google Cybersecurity Professional Certificate, has equipped me with a robust foundation in threat analysis, risk management, and defensive strategies.
+As a dedicated and ambitious Master’s student in Cybersecurity at International University of Applied Sciences (IU) in Berlin, I am deeply passionate about securing digital infrastructures and combating evolving cyber threats. My academic journey, combined with hands-on experience and industry-recognized certifications such as the Google Cybersecurity Professional Certificate, has equipped me with a robust foundation in threat analysis, risk management, and defensive strategies.
 
 My interest in cybersecurity stems from a fascination with technology’s dual potential—to empower and to endanger. With the increasing sophistication of cyberattacks, I am committed to developing proactive solutions that safeguard sensitive data and ensure organizational resilience. At IU, I have engaged in advanced coursework in network security, cryptography, ethical hacking, and digital forensics, while collaborating on research projects addressing real-world vulnerabilities.
 
